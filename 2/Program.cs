@@ -18,7 +18,7 @@ if (n > 100)
         {
          a = n / 100;
         int res1 = a % 10;
-        Console.WriteLine($"Третья цифра числа 1 {n} - {res1}");
+        Console.WriteLine($"Третья цифра числа {n} - {res1}");
         }
     }
     else
